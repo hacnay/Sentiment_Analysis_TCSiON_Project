@@ -75,8 +75,6 @@ The final result - **LSTM** model wins in the deep learning category for this ta
 Please refer the Data folder : [Data](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML/tree/master/datasets/crowdflower-sentiment-analysis-in-text)
 
 
-## @Authors
 
-* **Vishak Gopkumar** - (https://github.com/RepoMan20)
 
 
